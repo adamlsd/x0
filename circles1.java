@@ -10,6 +10,7 @@ void setup() {
   y=  height/2;
 }
 
+
 // Next frame:  draw three circles. //
 void draw() {
   ellipse(x, y, 80, 80);
